@@ -3,3 +3,4 @@
 wp-config*
 backupwordpress*
 node_modules
+organize/*
